@@ -1,1 +1,2 @@
 line1 in file1.txt
+line2 in file1.txt(issue 1 closed)
